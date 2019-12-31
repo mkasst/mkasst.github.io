@@ -1,1 +1,1 @@
-# mkasst.github.io
+# A simple website for a simple man.
