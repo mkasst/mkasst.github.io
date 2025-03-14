@@ -1,1 +1,1 @@
-# A simple website for a simple man.
+# A simple website.
