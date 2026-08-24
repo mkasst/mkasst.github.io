@@ -1,16 +1,16 @@
 body {
-	background: #2c4875;
+	background: ##003f5c;
 	font-weight: normal;
 	font-family: Verdana, sans-serif;
 	font-size: 16px;
 	text-decoration: none;
+	text-decoration-line: none;
 	color: #f29f05;
 }
 
 h1, h2, h3 {
 	margin: 0;
 	text-transform: uppercase;
-	color: #f28705;
 }
 
 h1 {
@@ -40,10 +40,6 @@ li {
 	display: block;
 	float: left;
 	margin: 10px;
-}
-
-a {
-	color: #DEDEDE;
 }
 
 a:hover {
@@ -80,7 +76,6 @@ a img {
 
 #logo a {
 	text-decoration: none;
-	color: #7700dd;
 }
 
 #footer {
